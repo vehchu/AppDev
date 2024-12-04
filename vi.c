@@ -10,5 +10,7 @@ int main(){
     printf("Hello World %s\n", user);
     printf("This is Vi's Project");
 
+    printf("This is also Sky's project");
+
     return 0; 
 }
